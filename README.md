@@ -1,7 +1,7 @@
 # Godot Cave
 A simple platformer game.
 <img width="998" height="474" alt="image" src="https://github.com/user-attachments/assets/a45dc810-8277-4d90-bab0-f76adb2d548b" />
-You can play **Godot Cave** at: https://marygoat.itch.io/tempo-surge
+You can play **Godot Cave** at: https://marygoat.itch.io/godot-cave
 To start, just press run!
 
 ### Controls
