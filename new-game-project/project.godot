@@ -10,9 +10,9 @@ config_version=5
 
 [application]
 
-config/name="New Game Project"
+config/name="godot cave"
 run/main_scene="uid://cvkvtb25je5tc"
-config/features=PackedStringArray("4.6", "GL Compatibility")
+config/features=PackedStringArray("4.7", "GL Compatibility")
 config/icon="res://icon.svg"
 
 [editor_plugins]
